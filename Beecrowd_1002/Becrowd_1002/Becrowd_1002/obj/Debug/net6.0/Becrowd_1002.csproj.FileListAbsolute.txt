@@ -1,0 +1,30 @@
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.exe
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.deps.json
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.runtimeconfig.json
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.dll
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.pdb
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.dll
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\refint\Becrowd_1002.dll
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.pdb
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\Orientação a Objetos\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\ref\Becrowd_1002.dll
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.dll
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\refint\Becrowd_1002.dll
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.pdb
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.exe
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.deps.json
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.runtimeconfig.json
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.dll
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\bin\Debug\net6.0\Becrowd_1002.pdb
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\Becrowd_1002.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\C#\Exercicios Beecrowd\1002\Becrowd_1002\Becrowd_1002\obj\Debug\net6.0\ref\Becrowd_1002.dll

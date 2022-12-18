@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\bin\Debug\net6.0\Beecrowd_1006.exe
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\bin\Debug\net6.0\Beecrowd_1006.deps.json
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\bin\Debug\net6.0\Beecrowd_1006.runtimeconfig.json
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\bin\Debug\net6.0\Beecrowd_1006.dll
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\bin\Debug\net6.0\Beecrowd_1006.pdb
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\Beecrowd_1006.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\Beecrowd_1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\Beecrowd_1006.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\Beecrowd_1006.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\Beecrowd_1006.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\Beecrowd_1006.dll
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\refint\Beecrowd_1006.dll
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\Beecrowd_1006.pdb
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\Beecrowd_1006.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\C#\CursoCSharp\Beecrowd_1006\Beecrowd_1006\obj\Debug\net6.0\ref\Beecrowd_1006.dll
